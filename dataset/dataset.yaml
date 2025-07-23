@@ -1,5 +1,5 @@
 train: images/train
 val: images/val
 
-nc: 2
-names: ['blood','slide']
+nc: 3
+names: ['blood','slide','petri-dish']
